@@ -1,0 +1,44 @@
+   16  nano fiveRandom2Digit.sh 
+   51  nano digitToWord.sh
+   52  ./digitToWord.sh
+   53  nano digitToWord.sh
+   54  ./digitToWord.sh
+   55  nano digitToWord.sh
+   56  ./digitToWord.sh
+   57  nano digitToWord.sh
+   58  ./digitToWord.sh
+   59  nano digitToWord.sh
+   60  ./digitToWord.sh
+   61  ./digitToWord.sh
+   62  nano digitToWord.sh
+   63  ./digitToWord.sh
+   64  nano digitToWord.sh
+   65  nano digitToWord.sh
+   66  ./digitToWord.sh
+   67  nano digitToWord.sh
+   78  ./digitToWord.sh
+   79  nano digitToWord.sh
+  168  nano singleDigitIfElseIf.sh
+  170  nano digitToWord.sh 
+  172  nano singleDigitIfElseIf.sh
+  173  ./singleDigitIfElseIf.sh
+  174  nano singleDigitIfElseIf.sh
+  175  ./singleDigitIfElseIf.sh
+  176  ./singleDigitIfElseIf.sh
+  177  ./singleDigitIfElseIf.sh
+  178  ./singleDigitIfElseIf.sh
+  228  nano singleDigitIfElseIf.sh 
+  229  ./singleDigitIfElseIf.sh 
+  237  nano digitToWord.sh 
+  238  ./digitToWord.sh 
+  504  mkdir githubRepo
+  505  cd githubRepo/
+  506  git init
+  508  git Config --global user.email "ashok.mandage22@gmail.com"
+  509  git config --global user.email "ashok.mandage22@gmail.com"
+  510  git config --global user.name "AshokA"
+  511  git config
+  512  git config user.email
+  513  git config user.name
+  514  history |grep git
+  515  history |grep git > gitcmd.txt
